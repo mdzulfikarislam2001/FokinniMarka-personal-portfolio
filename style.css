@@ -10,6 +10,7 @@ body{
     background-image: url(photo/top-banner.png);
     background-repeat:no-repeat ;
     margin:0%;
+   
 }
 h1{
     font-size: 50px;
@@ -18,7 +19,7 @@ h1{
     color: orangered;
 }
 .half-whidth{
-    width: 50%; 
+    width: 47%; 
     padding-left: 40px;   
 }
 .link-button{
@@ -35,4 +36,15 @@ h1{
 .half-whidth img{
     width: 95%;
     margin-left: 40px;
+    margin-top: 5%;
+}
+.second-section{
+    display: flex;
+    margin-top: 5%;
+    background-image: url(photo/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.third-section{
+    display: flex;
 }
