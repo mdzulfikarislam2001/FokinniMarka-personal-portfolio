@@ -45,6 +45,40 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
-.third-section{
+.main-div{
     display: flex;
+    margin: 0%;
+    background-image: url(photo/exp-bg.png);
+   background-position: left;
+   background-repeat: no-repeat;
+
+}
+.fokinnimarka-baby{
+    box-shadow: 10px 10px 40px #f77979;
+    width: 50%;
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-bottom: 10%;
+   padding: 30px;
+   border-radius: 7px;
+  
+}
+#h1-foki{
+font-size: 32px;
+}
+#h1-baby{
+    font-size: 40px;
+}
+h3{
+    color: rgb(160, 86, 156);
+}
+#baby{
+    border-left:8px solid;
+border-image:linear-gradient(#f7a606, #4d9f0c);
+border-image-slice: 1;
+}
+#foki{
+    border-left:8px solid;
+    border-image:linear-gradient(#f70626, #1439db);
+    border-image-slice: 1;
 }
