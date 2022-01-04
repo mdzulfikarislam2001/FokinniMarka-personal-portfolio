@@ -1,0 +1,38 @@
+*{
+box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;   
+    margin: 0;
+}
+.first-section{
+    display: flex;
+    background-image: url(photo/top-banner.png);
+    background-repeat:no-repeat ;
+    margin:0%;
+}
+h1{
+    font-size: 50px;
+}
+#zulfikars-world{
+    color: orangered;
+}
+.half-whidth{
+    width: 50%; 
+    padding-left: 40px;   
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color:  red;
+    background-image: linear-gradient(rgb(58, 30, 24),red);
+    padding:10px 40px;
+    font-weight: 700%;
+    border-radius: 4px;
+    
+    
+}
+.half-whidth img{
+    width: 95%;
+    margin-left: 40px;
+}
